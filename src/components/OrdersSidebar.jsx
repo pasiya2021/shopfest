@@ -1,4 +1,3 @@
-// components/OrdersSidebar.jsx
 import React from 'react';
 import { X, ShoppingBag } from 'lucide-react';
 import { useSelector } from 'react-redux';
